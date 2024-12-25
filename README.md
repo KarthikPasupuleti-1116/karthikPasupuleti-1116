@@ -1,3 +1,7 @@
+
+
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 # Hi, I'm Karthik Pasupuleti! 👋
 
 Power BI and SQL specialist with over 6 years of experience in product-based environments, adept in project management and delivering data-driven insights. Dedicated to tackling business challenges and designing BI solutions through an extensive array of technologies, including Power BI,DAX, Power Query My,Power Pivot,Power Apps,Power Automate, Azure Data Factory,Azure Databricks,Azure HD insights,Azure synapse, SQL Server, SSIS, and SSRS. Proven track record of enhancing operational efficiency and driving business results through strategic analysis and process optimization. Skilled at identifying innovative solutions to complex challenges, consistently driving measurable improvements in performance and productivity.
